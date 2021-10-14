@@ -1,5 +1,5 @@
 <?php
 
 function test(){
-	return 'test';
+	return 'master';
 }
