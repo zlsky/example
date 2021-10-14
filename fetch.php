@@ -1,5 +1,5 @@
 <?php
 
 function fetch(){
-	return 'ok';
+	return 'test';
 }
